@@ -1,4 +1,4 @@
 JeetMe
 ======
 
-Web template using jeet.gs
+Web Boilerplate using jeet.gs
